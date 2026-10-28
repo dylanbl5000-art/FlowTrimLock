@@ -1,0 +1,6 @@
+name: FlowTrimLock
+version: 1.0.0
+main: com.fullmoon.flowtrimlock.FlowTrimLock
+api-version: '26.1.2'
+description: Prevents changing armor with the Flow pattern and Resin trim material at smithing tables.
+author: FullMoon
